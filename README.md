@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Indu-Gadappa
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Java prjects as well as web developer full stack
+- 💞️ I’m looking to collaborate on Java projects as well as  full stack web development
 - 😄 Pronouns: indu
 
 <!---
